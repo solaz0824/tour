@@ -1,0 +1,22 @@
+@import "../../index.scss";
+
+
+.homeStyle {
+    background: $mainGreen;
+    width: 100%;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 3rem;
+    font-family: 'Caveat', cursive;
+}
+
+.linkStyle {
+    color: black;
+    width: 20%;
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 1rem;
+    &:hover {
+        background-color: $mainLightBlue;
+    }
+}

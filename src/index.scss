@@ -1,0 +1,22 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainGreen: #b2dfdb;
+$mainWhite: #fff;
+$mainGrey: #cfd8dc;
+$mainLightGreen: #e8f5e9;
+$mainLightBlue: #e3f2fd;
+$mainDarkGreen: #00766c;
+
+
+body {
+    background: $mainWhite;
+    color: $mainBlack;
+    font-family: 'Unica One', cursive;
+}
