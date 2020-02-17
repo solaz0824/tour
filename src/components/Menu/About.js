@@ -1,5 +1,4 @@
 import React from 'react';
-//import BorderWrapper from 'react-border-wrapper';
 
 
 export default function About() {

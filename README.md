@@ -13,7 +13,7 @@ A simple tour website design with main page and tour list
 
 ### Setup
 
-To run this project, download tour from github. 
+To run this project, download `tour` from github. 
 
 ```
 $ cd ../tour
